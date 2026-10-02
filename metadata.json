@@ -1,0 +1,6 @@
+{
+  "name": "Sử Ký 4 Hồi - Master Script Studio",
+  "description": "Studio biên kịch phim tài liệu lịch sử đỉnh cao dựa trên Khung Kịch Bản 4 Hồi, tạo phân tích nhân vật, kịch bản chi tiết 20-35 phút và video AI prompts sắc bén.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
